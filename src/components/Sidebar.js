@@ -28,8 +28,8 @@ function Sidebar() {
           </ul>
         </nav>
         <div>
-          <div className="flex items-center cursor-pointer rounded-[6px] py-2 px-3 text-lg font-semibold text-[#1B1B1B] opacity-60">
-            <FiSettings size={24} className="mr-3" /> 
+          <div className="flex items-center cursor-pointer rounded-[6px] py-2 px-3 text-lg font-semibold text-[#344054]">
+            <FiSettings size={24} className="mr-3 opacity-60" /> 
             Налаштування
           </div>
         </div>

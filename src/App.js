@@ -1,9 +1,9 @@
-import Sidebar from "./components/Sidebar";
+import Page1 from './components/Page1';
 
 function App() {
   return (
     <div className="App">
-      <Sidebar />
+      <Page1 />
     </div>
   );
 }
